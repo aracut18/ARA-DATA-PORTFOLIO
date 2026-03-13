@@ -88,6 +88,9 @@ Here is a list of my professional certifications, showcasing my continuous learn
 
 ## **Contacts**
 **LinkedIn:** [@hanifah-zahra-fc](https://www.linkedin.com/in/hanifah-zahra-fc)  
-**Phone:** +6281260810608
-**Email:** hanifahzahrafc@gmail.com  
+
+**Phone:** +6281260810608. 
+
+**Email:** hanifahzahrafc@gmail.com.
+
 **Tableau:** [@hanifah.zahra6513](https://public.tableau.com/app/profile/hanifah.zahra6513/vizzes)
