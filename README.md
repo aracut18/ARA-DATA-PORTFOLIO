@@ -58,11 +58,16 @@ In this section, I list my data analytics projects and briefly describe the tech
 ---
 
 ## **Experience**
-**PT Multi Medika Laboratory:** Sales & Account Handler (Nov 2023 - Oct 2025)
-* Managed enterprise accounts and processed up to 30 monthly quotations, maintaining an ~80% conversion rate through strategic follow-ups and historical sales data analysis in SAP Business One.
+**Sales & Account Handler | PT Multi Medika Laboratory** *(Nov 2023 - Oct 2025)*
+* Managed enterprise accounts and processed up to 30 monthly quotations, maintaining an approximately 80% conversion rate through strategic follow-ups.
+* Analyzed historical sales data in SAP Business One to support pricing adjustments and contract preparation.
+* Monitored end-to-end order fulfillment using Excel and SAP, ensuring transaction accuracy and proactively mitigating potential delivery delays.
+* Resolved client complaints regarding damaged or lost goods by coordinating with cross-functional teams, ensuring issue closure and client retention.
 
-**Universitas Sumatera Utara:** Laboratory Assistant - Facility Layout & Material Handling (Dec 2022 - Nov 2023)
-* Developed 10+ structured laboratory modules and SketchUp tutorials for 100+ students per semester, enhancing technical proficiency and assignment clarity.
+**Laboratory Assistant | Facility Layout & Material Handling Laboratory, Universitas Sumatera Utara** *(Dec 2022 - Nov 2023)*
+* Developed 10+ structured laboratory modules and SketchUp tutorials for 100+ students per semester, which enhanced technical proficiency.
+* Facilitated weekly technical sessions for 5 student groups to assist in developing comprehensive facility layout and material handling reports.
+* Standardized laboratory grading records and documentation in coordination with faculty, improving reporting consistency.
 
 ---
 
@@ -83,5 +88,6 @@ Here is a list of my professional certifications, showcasing my continuous learn
 
 ## **Contacts**
 **LinkedIn:** [@hanifah-zahra-fc](https://www.linkedin.com/in/hanifah-zahra-fc)  
+**Phone:** +6281260810608
 **Email:** hanifahzahrafc@gmail.com  
 **Tableau:** [@hanifah.zahra6513](https://public.tableau.com/app/profile/hanifah.zahra6513/vizzes)
