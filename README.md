@@ -7,8 +7,8 @@ In my previous role as a Sales and Account Handler, I managed up to 30 monthly e
 
 By combining an engineering mindset with practical business exposure, I strive to deliver clear and reliable data insights while continuing to grow as a Data Analyst.
 
-* [My CV in PDF](your_github_link_to_pdf_here)
-* [My Portfolio Presentation in PPT](your_github_link_to_ppt_here)
+* [My CV in PDF](https://github.com/aracut18/ARA-DATA-PORTFOLIO/blob/main/CV%20ATS%20Hanifah%20Zahra%20Fadhillah%20Cut.docx.pdf)
+* [My Portfolio Presentation in PPT](https://github.com/aracut18/ARA-DATA-PORTFOLIO/blob/main/Modern%20Bold%20Graphic%20Designer%20Creative%20Portfolio%20Presentation.pptx)
 
 This repository showcases my skills, shares my projects, and tracks my progress in Data Analytics.
 
